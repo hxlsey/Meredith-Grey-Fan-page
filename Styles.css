@@ -1,0 +1,19 @@
+
+
+hr {
+  border-style: none none double none;
+  width: 60%;
+  border-width: 3px;
+}
+h1 {
+
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 200%;
+}
+
+body {
+  background-color: rgb(230, 210, 235);
+  color: rgb(51, 9, 56)
+}
+
+
